@@ -1,6 +1,8 @@
 # ITS Art & NFT Protocol
 **True Digital Ownership for Artists and Creators**
 
+[![DOI](https://zenodo.org/badge/1451336078.svg)](https://doi.org/10.5281/zenodo.24093654)
+
 ## The Problem with current NFTs
 Current NFTs are fundamentally broken. They are merely links to external servers (often centralized). 
 *   The artwork itself is not on the blockchain.
