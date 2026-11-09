@@ -4,6 +4,7 @@ title: "ITS Art & NFT Protocol"
 authors:
   - name: "The ITS-TGO Collective"
 version: 1.0.0
+doi: "10.5281/zenodo.24093655"
 date-released: "2026-11-09"
 license: CC0-1.0
 repository-code: "https://github.com/its-tgo-collective/its-art-and-nft-protocol"
