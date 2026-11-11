@@ -1,9 +1,7 @@
 # ITS Art & NFT Protocol
 **True Digital Ownership for Artists and Creators**
 
-> **NEW:** Read the [STRATEGIC_IMPACT.md](STRATEGIC_IMPACT.md) to understand the economic and regulatory leverage of this framework.
-
-[![DOI](https://zenodo.org/badge/1450365249.svg)](https://doi.org/10.5281/zenodo.24055640) *(Optional: Hier kannst du später den DOI des Art-Repos einfügen)*
+[![DOI](https://zenodo.org/badge/1451336078.svg)](https://doi.org/10.5281/zenodo.24093654)
 
 **Status:** Release v1.1.0
 **License for this Text:** CC0 1.0 Universal (Public Domain)
