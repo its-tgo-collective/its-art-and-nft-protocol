@@ -1,7 +1,15 @@
 # ITS Art & NFT Protocol
 **True Digital Ownership for Artists and Creators**
 
-[![DOI](https://zenodo.org/badge/1451336078.svg)](https://doi.org/10.5281/zenodo.24093654)
+> **NEW:** Read the [STRATEGIC_IMPACT.md](STRATEGIC_IMPACT.md) to understand the economic and regulatory leverage of this framework.
+
+[![DOI](https://zenodo.org/badge/1450365249.svg)](https://doi.org/10.5281/zenodo.24055640) *(Optional: Hier kannst du später den DOI des Art-Repos einfügen)*
+
+**Status:** Release v1.1.0
+**License for this Text:** CC0 1.0 Universal (Public Domain)
+**License for Protected Works:** ITS Public License v1.1 (See LICENSE file)
+
+---
 
 ## The Problem with current NFTs
 Current NFTs are fundamentally broken. They are merely links to external servers (often centralized). 
