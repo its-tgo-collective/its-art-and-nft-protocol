@@ -1,4 +1,4 @@
-# ITS Art Protocol — Formal Specification (v1.0.0)
+# ITS Art Protocol — Formal Specification (v1.1.0)
 
 ## 1. Overview
 This specification defines the implementation of the Individual Tech Seal (ITS) for digital artworks and NFTs. It ensures that the artwork remains cryptographically bound to its creator and immune to unauthorized AI scraping.
